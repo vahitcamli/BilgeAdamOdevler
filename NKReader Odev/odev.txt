@@ -1,0 +1,10 @@
+birinci satır benim adım vahit camlı ve bilge adam java bootcampindeyim.
+ikinci satır benim adım vahit camlı ve bilge adam java bootcampindeyim.
+üçüncü satır benim adım vahit camlı ve bilge adam java bootcampindeyim.
+dördüncü satır benim adım vahit camlı ve bilge adam java bootcampindeyim.
+beşinci satır benim adım vahit camlı ve bilge adam java bootcampindeyim.
+altıncı satır benim adım vahit camlı ve bilge adam java bootcampindeyim.
+yedinci satır benim adım vahit camlı ve bilge adam java bootcampindeyim.
+sekizinci satır benim adım vahit camlı ve bilge adam java bootcampindeyim.
+dokuzuncu satır benim adım vahit camlı ve bilge adam java bootcampindeyim.
+onuncu satır benim adım vahit camlı ve bilge adam java bootcampindeyim.
